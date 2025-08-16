@@ -174,12 +174,12 @@ const API_SITES = {
         api: 'https://lbapi9.com/api.php/provide/vod/at/json',
         name: 'AV-乐播资源',
         detail: 'https://lbapi9.com'
-},
+   },
     AV1: {
          api: 'https://www.caoliuzyw.com/api.php/prodao/vod',
          name: 'AV-草榴资源',
          detail: 'https://www.caoliuzyw.com'
-},
+   },
 
     testSource: {
          api: 'https://www.example.com/api.php/provide/vod',
