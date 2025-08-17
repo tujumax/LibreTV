@@ -177,7 +177,7 @@ const API_SITES = {
 },
     AV1: {
          api: 'https://www.t66y.com/api.php/prodao/vod',
-         name: 'AV-草榴资源',
+         name: 'AV-草榴',
          detail: 'www.t66y.com'
 },
 
