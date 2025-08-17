@@ -176,9 +176,9 @@ const API_SITES = {
         detail: 'https://lbapi9.com'
 },
     AV1: {
-         api: 'https://www.caoliuzyw.com/api.php/prodao/vod',
+         api: 'https://www.t66y.com/api.php/prodao/vod',
          name: 'AV-草榴资源',
-         detail: 'https://www.caoliuzyw.com'
+         detail: 'www.t66y.com'
 },
 
     testSource: {
