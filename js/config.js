@@ -174,18 +174,8 @@ const API_SITES = {
         api: 'https://lbapi9.com/api.php/provide/vod/at/json',
         name: 'AV-乐播资源',
         detail: 'https://lbapi9.com'
-},
-    AV1: {
-         api: 'https://www.t66y.com/api.php/prodao/vod',
-         name: 'AV-草榴',
-         detail: 'www.t66y.com'
-},
-
-    testSource: {
-         api: 'https://www.example.com/api.php/provide/vod',
-         name: '空内容测试源',
-         adult: true
-    }
+}
+  
      
 };
 
